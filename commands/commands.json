@@ -1,0 +1,27 @@
+[
+    {
+        "name": "help",
+        "description": "help menu?",
+        "usage": "help"
+    },
+    {
+        "name": "say",
+        "description": "imma say somethin",
+        "usage": "say <message>"
+    },
+    {
+        "name": "idiotrate",
+        "description": "are you an idiot? well, let's see",
+        "usage": "idiotrate <user>"
+    },
+    {
+        "name": "masterrate",
+        "description": "idk what this does but ok",
+        "usage": "masterrate <user>"
+    },
+    {
+        "name": "secret",
+        "description": "shhhhh",
+        "usage": "secret"
+    }
+]
